@@ -18,7 +18,7 @@
 
     .container {
         padding-top: 50px !important;
-        padding-left: 120px !important;
+        padding-left: 0px !important;
         flex-direction: column;
     }
     .proflie-bio {
