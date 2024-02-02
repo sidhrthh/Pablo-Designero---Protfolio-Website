@@ -1,0 +1,41 @@
+@media only screen and (max-width: 768px) {
+    .hero-page{
+        height: 100%;
+        width: 100%;
+        }
+    .container-fluid {
+        margin-left: 0 !important;
+    }
+
+    .navbar-brand {
+        margin-left: 0 !important;
+        padding-left:0 !important ;
+    }
+
+    .d-flex {
+        padding-right: 0 !important;
+    }
+
+    .container {
+        padding-top: 50px !important;
+        padding-left: 120px !important;
+        flex-direction: column;
+    }
+    .proflie-bio {
+        margin-left: 0 !important;
+        width: 300px !important;
+    }
+    .horizontal-line{
+        margin-top:740px;
+    }
+    .footer-right{
+        width: 100%;
+    }
+    .social-icons{
+        display: flex;
+    }
+    .horizontal-line{
+        margin-left: 50px;
+
+    }
+}
